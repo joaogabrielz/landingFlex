@@ -1,3 +1,5 @@
-# projeto para estudo de flexbox
+# projeto para estudo de flexbox CSS
 
-    # Ainda nao responsivo
+## Site Landing PAGE Dsesenvolvido em Html e Css 👈
+
+ # Ainda nao responsivo
