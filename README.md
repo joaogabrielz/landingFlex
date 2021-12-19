@@ -1,5 +1,6 @@
 # projeto para estudo de flexbox CSS
 
-## Site Landing PAGE Dsesenvolvido em Html e Css 👈
+## Site Landing PAGE Desenvolvido em Html e Css 👈
 
- # Ainda nao responsivo
+### e alguns estudos sobre proriedades FlexBox css 👈
+ - Ainda nao responsivo
